@@ -1,0 +1,35 @@
+.errorC{
+    color: rgb(237, 237, 14);
+    font-weight: 600 ;
+    font-size: medium;
+}
+
+.addForm{
+    background-color: aliceblue;
+    width: 400px;
+    
+    align-content: left;
+    display: inline-block;
+    border-color: black;
+    
+}
+
+Form{
+    display: inline;
+    
+}
+
+.label{
+    text-align: left;
+    
+}
+
+.field{
+    align-content: left;
+}
+
+.errMessage{
+    color: crimson;
+    font-size: large;
+    font-weight: bold;
+}
